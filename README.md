@@ -1,16 +1,54 @@
-## Hi there 👋
+## Hi there, I´m Elvira 👋
 
-<!--
-**ElviraWitt/ElviraWitt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+UX design student interested in creating simple, accessible and user-centered digital experiences.
 
-Here are some ideas to get you started:
+I enjoy combining UX thinking, visual design and frontend development to build products that are both functional and intuitive.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Currently ⚡
+
+- Studying UX Design
+- Learning more about Wordpress and coding
+- Improving my UI design skills in Figma
+- Exploring accessibility and design systems
+
+
+## Tools & Technologies ⚙️
+
+- Figma
+- HTML
+- CSS
+- JavaScript
+- VsCode
+- Git & GitHub
+
+
+## Interests 🔍
+
+- UX/UI Design
+- Interaction Design
+- Frontend Development
+- Design Systems
+
+
+## Projects 🌱
+
+### Portfolio Website
+Personal portfolio focused on UX case studies and responsive design.
+
+### Redesign Concepts
+Redesign projects focused on usability and accessibility improvements.
+
+### Frontend Experiments
+Small frontend projects built to improve UI and interaction skills.
+
+
+## Contact 💬
+
+- LinkedIn: [https://www.linkedin.com/in/elvira-witt-6222941b3/]
+- Portfolio: [https://elvirawitt.github.io/Portfolio/]
+
+
+
+✨I’m the type of person who enjoys both aesthetics and structure equally — clean interfaces, organized playlists and carefully curated inspiration boards make me happy.✨
+
