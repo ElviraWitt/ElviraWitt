@@ -50,5 +50,6 @@ Small frontend projects built to improve UI and interaction skills.
 
 
 
+
 ✨I’m the type of person who enjoys both aesthetics and structure equally — clean interfaces, organized playlists and carefully curated inspiration boards make me happy.✨
 
